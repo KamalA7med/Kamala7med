@@ -32,7 +32,11 @@ I am currently in my third year and passionate about Artificial Intelligence, Ma
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL">
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+</p>
 <p>
   <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-black?style=flat" alt="Data Structures and Algorithms">
   <img src="https://img.shields.io/badge/-OOP-blue?style=flat" alt="Object Oriented Programming">
@@ -115,10 +119,10 @@ I am currently in my third year and passionate about Artificial Intelligence, Ma
 </p>
 
 <hr>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamalA7med&show_icons=true&theme=dark" alt="Kamal Ahmed's GitHub Stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KamalA7med&show_icons=true&theme=dark" alt="Kamal Ahmed's GitHub Stats">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KamalA7med&color=blue&style=flat" alt="Profile Views">
